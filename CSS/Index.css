@@ -1,0 +1,71 @@
+body{
+    background-color: #F5F5F5;
+    
+}
+#titulo-principal{
+    color: #BA704F;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    text-shadow: 1px 1px 1px gray;
+}
+.imagen{
+    position: relative;
+    top: 50%;
+    left: 30%;
+
+}
+nav{
+    background-color: #EADBC8;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding: 15px;
+
+}
+.enlace{
+    background-color: #FAF0D7;
+    color: #BA704F;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+
+    margin: 5px;
+    border: solid #BA704F 5px;
+    padding: 5px;
+
+    border-radius: 5px;
+}
+#titulo-articulo{
+    color: #BA704F;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+}
+#titulo-secundario{
+    color: #BA704F;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    text-decoration: underline;
+}
+.texto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-indent: 30px;
+}
+footer{
+    position: relative;
+    margin: 10px;
+    border: solid black 2px;
+    border-radius: 5px;
+    padding: 15px;
+}
+.pie-pagina{
+    color: #BA704F;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+    display: inline;
+    position: relative;
+    top: 50%;
+    left: 40%;
+}
